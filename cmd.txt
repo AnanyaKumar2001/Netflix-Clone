@@ -1,0 +1,12 @@
+$ npx create-react-app@latest netflix-ui
+$ cd netflix-ui/
+$ npm install -g yarn
+$ yarn add axios firebase styled-components react-icons react-redux @reduxjs/toolkit react-router-dom
+$ yarn start
+$ npm install firebase
+
+
+
+$ npm init --yes
+$ yarn add express cors mongoose nodemon
+$ yarn start
